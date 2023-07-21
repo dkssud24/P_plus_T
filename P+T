@@ -1,0 +1,1 @@
+Rscript ../../PRSice.R --prsice ../../PRSice_linux --base METAANALYSIS1.TBL.v2 --target ../../../../bedbimfam_koges/11_extract_dup --binary-target T --cov ../../HEXA.cov --pheno ../../HEXA.OB --snp SNP --chr CHR --bp BP --A1 A1 --A2 A2 --pvalue P --beta --stat BETA --out result --exclude METAANALYSIS1.TBL.dup
