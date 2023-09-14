@@ -4,5 +4,5 @@
 
 
 Rscript ../../PRSice.R --prsice ../../PRSice_linux --base METAANALYSIS1.TBL.v2 --target ../../../../bedbimfam_koges/11_extract_dup --binary-target T --cov ../../HEXA.cov --pheno ../../HEXA.OB --snp SNP --chr CHR --bp BP --A1 A1 --A2 A2 --pvalue P --beta --stat BETA --out result --exclude METAANALYSIS1.TBL.dup
-#Rscript ../../PRSice.R --prsice ../../PRSice_linux --base METAANALYSIS1.TBL.v2 --target /BiO/00_original_data/5_2020_koges_72298_samples/KARE_Affty/c_200326_6_1KG_8840 --binary-target T --cov ../../KARE.cov --pheno ../../KARE.HT --snp SNP --chr CHR --bp BP --A1 A1 --A2 A2 --pvalue P --beta --stat BETA --out result --exclude METAANALYSIS1.TBL.dup
+#Rscript ../../PRSice.R --prsice ../../PRSice_linux --base METAANALYSIS1.TBL.v2 --target /BiO/00_original_data/5_2020_koges_72298_samples/KARE_Affty/c_200326_6_1KG_8840 --binary-target T --cov ../../KARE.HT.cov --pheno ../../KARE.HT --snp SNP --chr CHR --bp BP --A1 A1 --A2 A2 --pvalue P --beta --stat BETA --out result --exclude METAANALYSIS1.TBL.dup
 
